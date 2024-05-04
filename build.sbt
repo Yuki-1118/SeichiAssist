@@ -113,7 +113,7 @@ val dependenciesToEmbed = Seq(
   "com.thesamet.scalapb" %% "scalapb-runtime" % scalapb.compiler.Version.scalapbVersion,
 
   // JSON
-  "io.circe" %% "circe-core" % "0.14.6",
+  "io.circe" %% "circe-core" % "0.14.7",
   "io.circe" %% "circe-generic" % "0.14.6",
   "io.circe" %% "circe-parser" % "0.14.6",
 
